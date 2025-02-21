@@ -9,10 +9,16 @@ frontend:
 (ha online guthubon is akarjuk buildelni)
 npm run build
 
-fejlesztői felület
+
+FUTTATÁS:
+
+backend:
+backend mappából indítjuk a terminalt majd:
+
+node server.js
+
+
+frontend:
 npm run dev
 
 
-backend:
-backend mappából:
-node server.js
