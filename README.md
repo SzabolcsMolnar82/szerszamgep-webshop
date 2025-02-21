@@ -6,7 +6,11 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 
 frontend:
+(ha online guthubon is akarjuk buildelni)
+npm run build
 
+fejlesztői felület
+npm run dev
 
 
 backend:
